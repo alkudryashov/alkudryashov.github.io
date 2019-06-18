@@ -19,4 +19,12 @@ tags: R, finance, math modelling
 
 ### [4rd homework from financial math course. Approximation of Differential Equations (Russian)] (hw4.html)
 
-tags: R, finance, math modelling    
+tags: R, finance, math modelling 
+
+### [Very simple fundamental analysis prediction model based on IFRS data (Russian)] (fundamental_analysis.html)
+
+tags: Python, pandas, matplotlib, finance 
+
+### [Cancer dataset explarationary analysis, PCA, KNeighborsClassifier, tuning of hyperparams of a model (Russian)] (yet_another_homework.html)
+
+tags: Python, pandas, matplotlib   
