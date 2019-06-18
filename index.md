@@ -2,9 +2,21 @@
 
 ### [Some tricky things (subplots, multiple axis on one figure, etc) made with raw matplotlib Python package (Russian)](/MatplotlibTask.html)
 
-tags: Python, matplotlib
+tags: Python, matplotlib, visualiation
 
 
 ### [First homework from financial math course. Both Python and R used in one notebook. Comparison of those programming languages as a bonus (Russian)](hw1.html)
 
 tags: R, Python, finance, ggplot, seaborn, pandas
+
+### [Second homework from financial math course. Call and Put options, a lot of options theory, greeks (Russian)](hw2.html)
+
+tags: R, ggplot, finance, math modelling
+
+### [3rd homework from financial math course. Black–Scholes and binomial models for evaluation of european option's price (Russian)](hw3.html)
+
+tags: R, finance, math modelling
+
+### [4rd homework from financial math course. Approximation of Differential Equations (Russian)] (hw4.html)
+
+tags: R, finance, math modelling    
