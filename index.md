@@ -25,7 +25,7 @@ tags: R, finance, math modelling
 
 tags: Python, pandas, matplotlib, finance 
 
-### [Cancer dataset explarationary analysis, PCA, KNeighborsClassifier, tuning of hyperparams of a model (Russian)](yet_another_homework.html)
+### [Cancer dataset explarationary analysis, PCA, KNeighborsClassifier, tuning of hyperparams of a model (Russian)](yet_antother_homework.html)
 
 tags: Python, pandas, matplotlib  
 
