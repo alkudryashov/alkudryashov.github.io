@@ -34,3 +34,5 @@ tags: Python, pandas, matplotlib
 tags: d3.js, visualization
 
 ### [Exploring Match Statistics for 2014 World Cup](./d3.js.2/hw3-part2.html)  
+
+tags: d3.js, visualization
