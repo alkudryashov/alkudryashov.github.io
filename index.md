@@ -27,4 +27,10 @@ tags: Python, pandas, matplotlib, finance
 
 ### [Cancer dataset explarationary analysis, PCA, KNeighborsClassifier, tuning of hyperparams of a model (Russian)](yet_another_homework.html)
 
-tags: Python, pandas, matplotlib   
+tags: Python, pandas, matplotlib  
+
+### [FIFA World Cup Statistics visualization] (./d3.js.1/hw3.html)
+
+tags: d3.js, visualization
+
+### [Exploring Match Statistics for 2014 World Cup] (./d3.js.2/hw3-part2.html)  
