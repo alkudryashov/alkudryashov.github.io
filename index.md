@@ -29,8 +29,8 @@ tags: Python, pandas, matplotlib, finance
 
 tags: Python, pandas, matplotlib  
 
-### [FIFA World Cup Statistics visualization] (./d3.js.1/hw3.html)
+### [FIFA World Cup Statistics visualization](./d3.js.1/hw3.html)
 
 tags: d3.js, visualization
 
-### [Exploring Match Statistics for 2014 World Cup] (./d3.js.2/hw3-part2.html)  
+### [Exploring Match Statistics for 2014 World Cup](./d3.js.2/hw3-part2.html)  
